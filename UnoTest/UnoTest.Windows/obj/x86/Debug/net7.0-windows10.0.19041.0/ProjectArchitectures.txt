@@ -1,0 +1,1 @@
+C:\Users\i2t\source\repos\UnoTest\UnoTest\UnoTest.Windows\UnoTest.Windows.csproj;x86
